@@ -1,0 +1,14 @@
+.card-body{
+    background-color: white;
+    height: fit-content;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid #808080;
+    border-radius: 3%;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+
+}
